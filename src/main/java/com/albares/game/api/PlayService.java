@@ -19,7 +19,7 @@ public class PlayService {
     public String playMatch(@PathParam("token") String token,@PathParam("word") String word){
         Integer id = JWTUtils.checkJWTandGetUserId(token);
         
-        String mask = "";
+        String mask = Parameters.match.getMask();
         //Si el token no es válido
         if(id == -1) return "token no valido";
         
