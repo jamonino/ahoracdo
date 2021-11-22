@@ -21,7 +21,6 @@ public class PlayService {
     public String playMatch(@PathParam("token") String token,@PathParam("word") String word){
         Integer id = JWTUtils.checkJWTandGetUserId(token);
         
-        
         if(id == -1) return "token no valido";
         
         User player = Parameters.match.getUsers().get(id);
