@@ -3,8 +3,7 @@ package com.albares.game.api;
 
 public class User {
     private String name;
-    private Integer score;
-    private Integer id;
+    private Integer score = 0;
 
     public User() {
     }
