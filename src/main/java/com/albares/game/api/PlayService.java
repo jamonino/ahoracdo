@@ -42,9 +42,7 @@ public class PlayService {
         }else{
             player.decrement(100);
         }
-        
         return Parameters.match.getMask();
-        
     }    
     
     @GET

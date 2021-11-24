@@ -63,7 +63,7 @@ public class Match{
         Integer coincidences = 0;
         StringBuilder newMask = new StringBuilder(this.mask);
         for (int i = 0; i < this.mask.length(); i++) {
-            if(this.mask.charAt(i)== '_' && this.getRandomWord().charAt(i) == letter ){
+            if(this.mask.charAt(i) == '_' && this.getRandomWord().charAt(i) == letter ){
                 newMask.setCharAt(i, letter);
                 coincidences++;
             }
