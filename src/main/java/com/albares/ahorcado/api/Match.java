@@ -1,4 +1,4 @@
-package com.albares.game.api;
+package com.albares.ahorcado.api;
 
 import java.util.Map;
 import java.util.TreeMap;

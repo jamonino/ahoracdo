@@ -1,5 +1,5 @@
 
-package com.albares.game.utils;
+package com.albares.ahorcado.utils;
 
 
 public final class Secrets {

@@ -1,5 +1,5 @@
 
-package com.albares.game.api;
+package com.albares.ahorcado.api;
 
 public class User {
     private String name;

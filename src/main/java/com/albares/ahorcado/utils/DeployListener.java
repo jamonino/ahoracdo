@@ -1,4 +1,4 @@
-package com.albares.game.utils;
+package com.albares.ahorcado.utils;
 
 
 import jakarta.servlet.ServletContextEvent;

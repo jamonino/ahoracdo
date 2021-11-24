@@ -1,5 +1,5 @@
 
-package com.albares.game.api;
+package com.albares.ahorcado.api;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;

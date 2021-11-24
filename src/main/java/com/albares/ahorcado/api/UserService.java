@@ -1,8 +1,8 @@
 
-package com.albares.game.api;
+package com.albares.ahorcado.api;
 
-import com.albares.game.utils.Parameters;
-import com.albares.game.utils.JWTUtils;
+import com.albares.ahorcado.utils.Parameters;
+import com.albares.ahorcado.utils.JWTUtils;
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.POST;

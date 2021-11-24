@@ -1,7 +1,7 @@
 
-package com.albares.game.utils;
+package com.albares.ahorcado.utils;
 
-import com.albares.game.api.Match;
+import com.albares.ahorcado.api.Match;
 
 
 public final class Parameters {

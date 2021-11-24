@@ -1,5 +1,5 @@
 
-package com.albares.game.utils;
+package com.albares.ahorcado.utils;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;
