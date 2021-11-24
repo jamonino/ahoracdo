@@ -9,7 +9,7 @@ public final class Parameters {
     public Parameters() {
     }
     
-    public static final String PROJECT_NAME = "Game";
+    public static final String PROJECT_NAME = "Ahorcado";
     public static Match match = new Match();
     
     
