@@ -57,7 +57,7 @@
 
 
     <build>
-        <finalName>basic</finalName>
+        <finalName>ahorcado</finalName>
         <plugins>
             <plugin>
             <groupId>org.apache.tomee.maven</groupId>
